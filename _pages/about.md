@@ -8,6 +8,32 @@ redirect_from:
   - /about.html
 ---
 
+# About Me
+
+I am a first-year graduate student at MIT, affiliated with the [Institute of Data, Systems, and Society (IDSS)](https://www.google.com/url?q=https%3A%2F%2Fidss.mit.edu%2F&sa=D&sntz=1&usg=AOvVaw1JUhLEdASNugHeAgwaIjGU) and the [Laboratory for Information and Decision Systems (LIDS)](https://www.google.com/url?q=https%3A%2F%2Flids.mit.edu%2F&sa=D&sntz=1&usg=AOvVaw2QMWPsIvQryHTIAF4QxIs2). My advisor is [David Simchi-Levi](https://www.google.com/url?q=https%3A%2F%2Fslevi1.mit.edu%2F&sa=D&sntz=1&usg=AOvVaw3oIRo2Q4xKQcJIEFlJ0B6N).
+
+Before joining MIT, I acquired my BS degree majoring in Theoretical and Applied Mechanics, at the [College of Engineering](https://www.google.com/url?q=https%3A%2F%2Fen.coe.pku.edu.cn%2F&sa=D&sntz=1&usg=AOvVaw0AjcdnxumDxGVKO4n2klNa), Peking University.
+
+My research interests broadly include operations research and game theory. More specifically, I am exploring ways to combine casual inference techniques with revenue management.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
